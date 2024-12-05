@@ -3,7 +3,7 @@ int main(){
 	int a,b,c,temp;
 	printf("nhap a\n");
 	scanf("%d",&a) ;
-	printf("nhap b \n");
+	printf("nhap b \n");//nhapc
 	scanf("%d",&b) ;
 	printf("nhap c \n");
 	scanf("%d",&c);	 
